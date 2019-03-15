@@ -3,11 +3,11 @@
 ```shell
 sudo gcloud source repos create hello-world
 ```
-* Check Repository created on remote 
+* Check Repository created on remote <br/>
 [https://source.cloud.google.com/?authuser=1&hl=zh-TW](https://source.cloud.google.com/?authuser=1&hl=zh-TW)
 
 # follow web view
-* input url in chrome
+* input url in chrome <br/>
 [https://source.cloud.google.com/?authuser=1&hl=zh-TW](https://source.cloud.google.com/?authuser=1&hl=zh-TW)
 * click 「新增存放區」
 ![source repository home](images/source_repository_home.png)
